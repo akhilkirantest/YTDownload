@@ -5,7 +5,7 @@ from pytube import YouTube
 
 # Base output location
 base_path = './YTfolder'
-#JK 12
+#JK 123
 # Read CSV file
 with open('./csv/input.csv', 'r') as file:
     reader = csv.reader(file)
